@@ -427,7 +427,7 @@ var APP_DATA = {
           "yaw": -0.039008477810078546,
           "pitch": 0.2619278092420956,
           "rotation": 0,
-          "target": "10----"
+          "target": "10--"
         }
       ],
       "infoHotspots": []
@@ -475,14 +475,14 @@ var APP_DATA = {
           "yaw": 0.1253534252882922,
           "pitch": 0.2474262533692695,
           "rotation": 0,
-          "target": "11--"
+          "target": "11----"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "10----",
-      "name": "Кабинет Тет-А-Тет",
+      "id": "10--",
+      "name": "Кабинет Инфопроверка",
       "levels": [
         {
           "tileSize": 256,
@@ -523,8 +523,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "11--",
-      "name": "Кабинет Инфопроверка",
+      "id": "11----",
+      "name": "Кабинет Тет-А-Тет",
       "levels": [
         {
           "tileSize": 256,
